@@ -1,0 +1,81 @@
+{
+  "20-01-2024": {
+    "batagor": {
+      "name": "Batagor UI",
+      "hygiene": 8,
+      "notes": "I ordered an amount for 5K IDR. You can adjust the price if you want to get more or less.",
+      "orders": [
+        {
+          "name": "Batagor 5K rupiah",
+          "price": 5000,
+          "taste": 8,
+          "worthiness": 9
+        }
+      ]
+    },
+    "kebuli_ui": {
+      "name": "Pasar Kebuli UI",
+      "hygiene": 7,
+      "orders": [
+        {
+          "name": "Nasi Kebuli Ayam Bakar",
+          "price": 22000,
+          "taste": 8,
+          "worthiness": 9
+        }
+      ]
+    },
+    "popeyes": {
+      "name": "Popeyes Margo City Depok",
+      "hygiene": 10,
+      "service": 8,
+      "tax": 10,
+      "orders": [
+        {
+          "name": "2 Buttermilk Chicken Tenders",
+          "price": 37272,
+          "taste": 6,
+          "worthiness": 6
+        },
+        {
+          "name": "Mashed Potato Chicken Gravy",
+          "price": 12000,
+          "taste": 7,
+          "worthiness": 8
+        },
+        {
+          "name": "Ice Cream Cone",
+          "price": 4545,
+          "taste": 8,
+          "worthiness": 8
+        }
+      ]
+    },
+    "koi": {
+      "name": "KOI The, Margo City Mall",
+      "hygiene": 10,
+      "orders": [
+        {
+          "name": "Jasmine Green Tea",
+          "notes": "Regular size, no sugar",
+          "price": 22000,
+          "taste": 9,
+          "worthiness": 7
+        }
+      ]
+    },
+    "kopi_kenangan": {
+      "name": "Kopi Kenangan Senayan Park",
+      "hygiene": 10,
+      "orders": [
+        {
+          "name": "Vanilla Latte",
+          "notes": "Regular sized, less sugar",
+          "price": 26000,
+          "taste": 8,
+          "worthiness": 7
+        }
+      ]
+    }
+  }
+}
