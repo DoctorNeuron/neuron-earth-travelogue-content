@@ -1,0 +1,100 @@
+{
+  "27-01-2024": {
+    "bus-1": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "8A",
+          "route": ["Tanjung Duren", "Tomang Raya", "Tarakan", "Petojo", "Pecenongan"]
+        },
+        {
+          "name": "2",
+          "route": ["Pecenongan", "Monas"]
+        }
+      ]
+    },
+    "bus-2": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "1",
+          "route": [
+            "Monumen Nasional",
+            "Kebon Sirih",
+            "M.H Thamrin",
+            "Bundaran HI Astra",
+            "Tosari",
+            "Dukuh Atas",
+            "Karet",
+            "Bendungan Hilir",
+            "Polda Metro Jaya",
+            "Gelora Bung Karno",
+            "Bundaran Senayan",
+            "Masjid Agung",
+            "Kejaksaan Agung",
+            "ASEAN",
+            "Blok M"
+          ]
+        }
+      ]
+    },
+    "mrt-1": {
+      "type": "mrt",
+      "price": 8000,
+      "routes": [
+        {
+          "name": "MRT Jakarta",
+          "route": [
+            "Blok M BCA",
+            "Blok A",
+            "Haji Nawi",
+            "Cipete Raya",
+            "Fatmawati Indomaret",
+            "Lebak Bulus Grab"
+          ]
+        }
+      ]
+    },
+    "mrt-2": {
+      "type": "mrt",
+      "price": 14000,
+      "routes": [
+        {
+          "name": "MRT Jakarta",
+          "route": [
+            "Lebak Bulus Grab",
+            "Fatmawati Indomaret",
+            "Cipete Raya",
+            "Haji Nawi",
+            "Blok A",
+            "Blok M BCA",
+            "ASEAN",
+            "Senayan Mastercard",
+            "Istora Mandiri",
+            "Bendungan Hilir",
+            "Setiabudi Astra",
+            "Dukuh Atas BNI",
+            "Bundaran HI"
+          ]
+        }
+      ]
+    },
+    "bus-3": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "1",
+          "route": [
+            "Bundaran HI Astra",
+            "M.H Thamrin",
+            "Kebon Sirih",
+            "Monumen Nasional"
+          ]
+        }
+      ]
+    }
+  }
+}

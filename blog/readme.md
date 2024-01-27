@@ -17,7 +17,7 @@ I am focused on my food, so here are some symbols you need to know.
 ### 🚿 Hygiene
 
 This is a metric of how clean and sterile the place and the food is. In lament terms:
-* 9 or 10⭐: Exceptionally sterile. The workers are wearing their PPE, no unnecessary waste near the kitchen, the tableware and utensils are shining clean, table is always cleaned before sitting in.
+* 9 or 10⭐: Exceptionally sterile. The workers are wearing their PPE, no unnecessary waste near the kitchen, the tableware and utensils are shining clean, table is always cleaned before sitting in. Food stall still have their chance to get this rating if they stands up from the usual environment of food stall.
 * 8⭐: Sterile. Might not wear complete PPE, but it is comfortable and has a clean environment and strict regulations.
 * 7⭐: Follows standard common sense protocol. Guaranteed to be clean and comfortable for 98% of people. A closed kitchen has a greater chance of gaining this point.
 * 6 or 5⭐: You might need to clean your table and equipment thoroughly. OCD stays away from this place.

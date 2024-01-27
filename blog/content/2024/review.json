@@ -77,5 +77,45 @@
         }
       ]
     }
+  },
+  "27-01-2024": {
+    "warung_soto_asep": {
+      "name": "Warung Soto Jakarta Bang Asep",
+      "hygiene": 9,
+      "orders": [
+        {
+          "name": "Soto Daging + Nasi",
+          "notes": "EN: Beef Soto + Plate of Rice",
+          "price": 25000,
+          "taste": 9,
+          "worthiness": 10
+        }
+      ]
+    },
+    "pasta": {
+      "name": "Pasta by the Park",
+      "hygiene": 9,
+      "service": 8,
+      "orders": [
+        {
+          "name": "Penne Pollo Pesto",
+          "notes": "Can be served on a plate or on a cone. Your choice",
+          "price": 85000,
+          "taste": 10,
+          "worthiness": 7
+        }
+      ]
+    },
+    "hang_tuah": {
+      "name": "Hang Tuah - Poins",
+      "orders": [
+        {
+          "name": "Butter Sugar Toast",
+          "price": 24000,
+          "taste": 6,
+          "worthiness": 6
+        }
+      ]
+    }
   }
 }
