@@ -95,6 +95,23 @@
           ]
         }
       ]
+    },
+    "bus-4": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "8",
+          "route": [
+            "Juanda",
+            "Pecenongan",
+            "Petojo",
+            "Tarakan",
+            "Tomang Raya",
+            "Tanjung Duren"
+          ]
+        }
+      ]
     }
   }
 }
