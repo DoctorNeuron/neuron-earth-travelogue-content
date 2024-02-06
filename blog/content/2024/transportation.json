@@ -6,11 +6,20 @@
       "routes": [
         {
           "name": "8A",
-          "route": ["Tanjung Duren", "Tomang Raya", "Tarakan", "Petojo", "Pecenongan"]
+          "route": [
+            "Tanjung Duren",
+            "Tomang Raya",
+            "Tarakan",
+            "Petojo",
+            "Pecenongan"
+          ]
         },
         {
           "name": "2",
-          "route": ["Pecenongan", "Monas"]
+          "route": [
+            "Pecenongan",
+            "Monas"
+          ]
         }
       ]
     },

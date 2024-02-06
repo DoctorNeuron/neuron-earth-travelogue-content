@@ -119,6 +119,7 @@
     },
     "little_india": {
       "name": "Little India Kitchen",
+      "hygiene": 7,
       "orders": [
         {
           "name": "Channai Bread",
