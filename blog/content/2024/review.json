@@ -116,6 +116,24 @@
           "worthiness": 6
         }
       ]
+    },
+    "little_india": {
+      "name": "Little India Kitchen",
+      "hygiene": 7,
+      "orders": [
+        {
+          "name": "Channai Bread",
+          "price": 15000,
+          "taste": 7,
+          "worthiness": 7
+        },
+        {
+          "name": "Vegetable Biryani",
+          "price": 35000,
+          "taste": 5,
+          "worthiness": 4
+        }
+      ]
     }
   }
 }
