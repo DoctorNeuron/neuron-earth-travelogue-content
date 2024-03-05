@@ -21,6 +21,15 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Transit Enthusiast",
+      "subroute": [
+        {
+          "name": "Transjakarta",
+          "path": "/transit/transjakarta"
+        }
+      ]
     }
   ]
 }
