@@ -30,6 +30,25 @@
           "path": "/transit/transjakarta"
         }
       ]
+    },
+    {
+      "name": "Database",
+      "subroute": [
+        {
+          "name": "The Sims",
+          "subroute": [
+            {
+              "name": "Castaway Product",
+              "path": "/database/the-sims/castaway-product"
+            },
+            {
+              "name": "Bustin Jobs",
+              "path": "/database/the-sims/bustin-jobs"
+            }
+          ]
+        },
+        {}
+      ]
     }
   ]
 }
