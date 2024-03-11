@@ -1,0 +1,40 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "required": [
+    "router"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "router": {
+      "type": "array",
+      "description": "The name of the route. Will be displayed on the navbar",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "subroute": {
+            "description": "The submenu for this route. Optional",
+            "type": "array",
+            "items": {
+              "$ref": "#/properties/router/items"
+            }
+          },
+          "path": {
+            "description": "The URL to the specific page. Optional",
+            "type": "string",
+            "pattern": "^(\/[a-z0-9-]+)*$"
+          }
+        },
+        "required": ["name"],
+        "oneOf": [
+          { "required": ["subroute"] },
+          { "required": ["path"] }
+        ]
+      }
+    }
+  }
+}
