@@ -1,0 +1,16 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["**/*/transportation.json"],
+      "url": "./meta/transportation-schema.json"
+    },
+    {
+      "fileMatch": ["**/*/routes.json"],
+      "url": "./meta/router-schema.json"
+    },
+    {
+      "fileMatch": ["**/*/review.json"],
+      "url": "./meta/food-review-schema.json"
+    }
+  ]
+}

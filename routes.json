@@ -11,6 +11,10 @@
           "name": "2024",
           "subroute": [
             {
+              "name": "9 March",
+              "path": "/blog/2024/09-03"
+            },
+            {
               "name": "27 January",
               "path": "/blog/2024/27-01"
             },
@@ -46,8 +50,7 @@
               "path": "/database/the-sims/bustin-jobs"
             }
           ]
-        },
-        {}
+        }
       ]
     }
   ]

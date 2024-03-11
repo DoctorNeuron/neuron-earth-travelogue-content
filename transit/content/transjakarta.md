@@ -10,7 +10,7 @@ keywords: transjakarta
 
 So, take this. I lived in Jakarta for almost 2 years. I don't have any private vehicles. I cannot drive because I am broke. I cannot walk because this is a car-centric city and motorbikes are reckless as f--k (golden ticket to ER). Sure, I have a plan to own a bicycle, yet still comes short to fulfill my transportation needs.
 
-Looking at the title, I am sure you already guessed what I want to talk about. If you still prefer cars to clog our traffic, I understand 🙂.
+Looking at the title, I am sure you already guessed what I want to talk about. If you still prefer cars to clog our traffic and restrict our mobility, I understand 🙂.
 
 ## Yay Public Transportation
 
@@ -70,11 +70,11 @@ This is what you should expect
 
 There are two columns of seats that either stick along the wall or face the front way. Each seat might be soft or hard. It depends on the bus.
 
-There are also rows of seats that are prioritized for disabled, seniors, pregnant moms, or baby-carrying moms. Technically you are allowed to sit there AS LONG AS there are no people in this category inside. So, take the seats and enjoy your ride.
+There are also rows of seats that are prioritized for disabled, seniors, pregnant moms, or baby-carrying moms. Technically you are allowed to sit there AS LONG AS there are no people in this category inside. So, take the seats and enjoy your ride, but if you ever spot one of the people inside the categories, I require you to give up your seats. If you are inside one of those special category, You can ask any people to give up their seat to you giving you are really incapable to stand up for long.
 
 They also offer a hand-holder for people who prefer to stand on their feet during a ride.
 
-In every bus, they offer a space exclusively for women; addressing the concern of widespread sexual assault against women by men.
+In every bus, there are spaces exclusively for women; addressing the concern of widespread sexual assault by mostly thirsty degenerate. 
 
 ## Any tips before I go commute or ride?
 
@@ -85,3 +85,11 @@ As someone who routinely rides this great bus, here are some tips for you to get
 3. Keep your belongings safe. Do not let that sense of safety dictate your way to secure your bags.
 4. If you are a woman, please occupy the woman-only space. Not only to guarantee your safety from assault, but you can also give more space to men/boys.
 5. Check their maps [here](https://transjakarta.co.id/peta-rute/). If you still need guidance, ask the officers there.
+
+## Get off from your seat and walk
+
+I inquire you to get off your private vehicle. I admit it is so fun because I have no need to find another parking lot. Plus I can walk around as far as I please without worrying about my vehicle getting stolen on park or whatever.
+
+I admit that this is not the perfect transit system. It needs a lot of reform. The station is mostly old and claustrophobic on rush hour, the tapping system breaks frequently, and they did not even bother to add more buses to the obviously jammed corridor (1st or 9th for example).
+
+Nevertheless, it is so much better than forcing people to afford a private vehicle.

@@ -1,11 +1,102 @@
 {
+  "09-03-2024": {
+    "bus-1": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "8",
+          "route": [
+            "Tanjung Duren",
+            "Tomang Raya",
+            "Tarakan",
+            "Petojo",
+            "Pecenongan",
+            "Juanda"
+          ]
+        },
+        {
+          "name": "5C",
+          "route": [
+            "Juanda",
+            "Lapangan Benteng",
+            "Pal Putih",
+            "Kramat Sentiong",
+            "Salemba",
+            "Paseban",
+            "Matraman",
+            "Tegalan"
+          ]
+        }
+      ]
+    },
+    "bus-2": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "5C",
+          "route": [
+            "Matraman",
+            "Tegalan",
+            "Kesatrian",
+            "Matraman Baru",
+            "Bali Mester",
+            "Jatinegara",
+            "Kampung Melayu",
+            "Bidara Cina",
+            "Gelanggang Remaja",
+            "Cawang Baru",
+            "Cawang"
+          ]
+        },
+        {
+          "name": "9A",
+          "route": [
+            "Cawang",
+            "Ciliwung",
+            "Cikoko",
+            "Tebet Eco Park"
+          ]
+        }
+      ]
+    },
+    "bus-3": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "9A",
+          "route": [
+            "Cikoko",
+            "Tebet Eco Park",
+            "Pancoran Tugu",
+            "Pancoran",
+            "Tegal Parang",
+            "Simpang Kuningan",
+            "Denpasar",
+            "Jamsostek 3",
+            "Widya Chandra",
+            "Komdak 1",
+            "Semanggi",
+            "Senayan",
+            "Petamburan",
+            "Kemanggisan",
+            "Kota Bambu",
+            "Tanjung Duren"
+          ]
+        }
+      ]
+    }
+  }
+  ,
   "27-01-2024": {
     "bus-1": {
       "type": "bus",
       "price": 3500,
       "routes": [
         {
-          "name": "8A",
+          "name": "8",
           "route": [
             "Tanjung Duren",
             "Tomang Raya",

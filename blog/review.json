@@ -1,4 +1,101 @@
 {
+  "09-03-2024": {
+    "hadrami_house": {
+      "name": "Hadrami House, Matraman",
+      "hygiene": 10,
+      "service": 7,
+      "orders": [
+        {
+          "name": "Chicken Kebab",
+          "price": 116000,
+          "taste": 8,
+          "worthiness": 7
+        },
+        {
+          "name": "1/2 Chicken Madhabi",
+          "price": 94000,
+          "taste": 9,
+          "worthiness": 8
+        },
+        {
+          "name": "Fasolia Jubun",
+          "price": 58000,
+          "taste": 8,
+          "worthiness": 9
+        }
+      ]
+    },
+    "tea": {
+      "name": "Minum Yuk (?)",
+      "orders": [
+        {
+          "name": "Plain Iced Tea",
+          "notes": "I ran out of drinking water, so I had to resort to this 😞",
+          "price": 6000,
+          "taste": 7,
+          "worthiness": 4
+        }
+      ]
+    }
+  },
+  "27-01-2024": {
+    "warung_soto_asep": {
+      "name": "Warung Soto Jakarta Bang Asep",
+      "hygiene": 9,
+      "orders": [
+        {
+          "name": "Soto Daging + Nasi",
+          "notes": "EN: Beef Soto + Plate of Rice",
+          "price": 25000,
+          "taste": 9,
+          "worthiness": 10
+        }
+      ]
+    },
+    "pasta": {
+      "name": "Pasta by the Park",
+      "hygiene": 9,
+      "service": 8,
+      "orders": [
+        {
+          "name": "Penne Pollo Pesto",
+          "notes": "Can be served on a plate or on a cone. Your choice",
+          "price": 85000,
+          "taste": 10,
+          "worthiness": 7
+        }
+      ]
+    },
+    "hang_tuah": {
+      "name": "Hang Tuah - Poins",
+      "orders": [
+        {
+          "name": "Butter Sugar Toast",
+          "price": 24000,
+          "taste": 6,
+          "worthiness": 6
+        }
+      ]
+    },
+    "little_india": {
+      "name": "Little India Kitchen",
+      "hygiene": 7,
+      "orders": [
+        {
+          "name": "Channai Bread",
+          "price": 15000,
+          "taste": 7,
+          "worthiness": 7
+        },
+        {
+          "name": "Vegetable Biryani",
+          "price": 35000,
+          "taste": 5,
+          "worthiness": 4
+        }
+      ]
+    }
+  },
   "20-01-2024": {
     "batagor": {
       "name": "Batagor UI",
@@ -77,63 +174,6 @@
         }
       ]
     }
-  },
-  "27-01-2024": {
-    "warung_soto_asep": {
-      "name": "Warung Soto Jakarta Bang Asep",
-      "hygiene": 9,
-      "orders": [
-        {
-          "name": "Soto Daging + Nasi",
-          "notes": "EN: Beef Soto + Plate of Rice",
-          "price": 25000,
-          "taste": 9,
-          "worthiness": 10
-        }
-      ]
-    },
-    "pasta": {
-      "name": "Pasta by the Park",
-      "hygiene": 9,
-      "service": 8,
-      "orders": [
-        {
-          "name": "Penne Pollo Pesto",
-          "notes": "Can be served on a plate or on a cone. Your choice",
-          "price": 85000,
-          "taste": 10,
-          "worthiness": 7
-        }
-      ]
-    },
-    "hang_tuah": {
-      "name": "Hang Tuah - Poins",
-      "orders": [
-        {
-          "name": "Butter Sugar Toast",
-          "price": 24000,
-          "taste": 6,
-          "worthiness": 6
-        }
-      ]
-    },
-    "little_india": {
-      "name": "Little India Kitchen",
-      "hygiene": 7,
-      "orders": [
-        {
-          "name": "Channai Bread",
-          "price": 15000,
-          "taste": 7,
-          "worthiness": 7
-        },
-        {
-          "name": "Vegetable Biryani",
-          "price": 35000,
-          "taste": 5,
-          "worthiness": 4
-        }
-      ]
-    }
   }
+
 }
