@@ -1,4 +1,96 @@
 {
+  "27-03-2024": {
+    "aeon": {
+      "name": "AEON Mall Tanjung Barat",
+      "notes": "Refers to their food court",
+      "hygiene": 7,
+      "tax": 10,
+      "service": 6,
+      "orders": [
+        {
+          "name": "Fried Chicken Nori Cheese Large",
+          "price": 15500,
+          "taste": 8,
+          "worthiness": 9
+        },
+        {
+          "name": "Chicken Karaage Nori Cheese",
+          "price": 8000,
+          "taste": 8,
+          "worthiness": 9
+        },
+        {
+          "name": "Chicken Karaage Original",
+          "price": 5000,
+          "taste": 8,
+          "worthiness": 8,
+          "notes": "Original price is 6K but I got a discount somehow"
+        },
+        {
+          "name": "Chicken Biryani 144gr",
+          "price": 21600,
+          "taste": 7,
+          "worthiness": 7,
+          "notes": "It should be 150K per kilo"
+        }
+      ]
+    },
+    "susu_mbok_darmi_juanda": {
+      "name": "Susu Mbok Darmi Halte Juanda",
+      "service": 8,
+      "hygiene": 7,
+      "orders": [
+        {
+          "name": "Darmi Green Tea Large",
+          "taste": 9,
+          "worthiness": 7,
+          "price": 21000
+        }
+      ]
+    },
+    "susu_mbok_darmi_aeon": {
+      "name": "Susu Mbok Darmi AEON Mall Tanjung Barat",
+      "service": 8,
+      "hygiene": 7,
+      "orders": [
+        {
+          "name": "Darmi Vanilla Large",
+          "taste": 9,
+          "worthiness": 8,
+          "price": 19000
+        }
+      ]
+    },
+    "karnivor": {
+      "name": "Karnivor, AEON Mall Tanjung Barat",
+      "hygiene": 9,
+      "tax": 17,
+      "service": 9,
+      "orders": [
+        {
+          "name": "Cowboy Cut Steak AUS",
+          "notes": "It is 600gr, at least what was said",
+          "price": 379000,
+          "taste": 8,
+          "worthiness": 6
+        }
+      ]
+    },
+    "warung_solo_barokah_27": {
+      "name": "Warung Solo Barokah 27, Ragunan",
+      "hygiene": 5,
+      "service": 7,
+      "orders": [
+        {
+          "name": "Nasi Goreng Spesial",
+          "price": 27000,
+          "taste": 5,
+          "worthiness": 4,
+          "notes": "There's a hair strand inside and the sides are not crispy"
+        }
+      ]
+    }
+  },
   "09-03-2024": {
     "hadrami_house": {
       "name": "Hadrami House, Matraman",

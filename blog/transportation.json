@@ -1,4 +1,182 @@
 {
+  "24-03-2024": {
+    "bus-3": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "8",
+          "route": [
+            "Juanda",
+            "Pecenongan",
+            "Petojo",
+            "Tarakan",
+            "Tomang Raya",
+            "Tanjung Duren"
+          ]
+        }
+      ]
+    },
+    "train-2": {
+      "type": "train-commuter",
+      "price": 3000,
+      "routes": [
+        {
+          "name": "Commuter Line Bogor",
+          "route": [
+            "Tanjung Barat",
+            "Pasar Minggu",
+            "Pasar Minggu Baru",
+            "Danau Kalibata",
+            "Cawang",
+            "Tebet",
+            "Manggarai",
+            "Cikini",
+            "Gondangdia",
+            "Juanda"
+          ]
+        }
+      ]
+    },
+    "train-1": {
+      "type": "train-commuter",
+      "price": 3000,
+      "routes": [
+        {
+          "name": "Commuter Line Bogor",
+          "route": [
+            "Manggarai",
+            "Tebet",
+            "Cawang",
+            "Danau Kalibata",
+            "Pasar Minggu Baru",
+            "Pasar Minggu",
+            "Tanjung Barat"
+          ]
+        }
+      ]
+    },
+    "bus-2": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "6A",
+          "route": [
+            "Ragunan",
+            "Simpang Ragunan",
+            "Jati Barat",
+            "Jati Padang",
+            "Pejaten",
+            "Buncit Indah",
+            "Warung Jati",
+            "Warung Buncit",
+            "Duren Tiga",
+            "Mampang Prapatan",
+            "Underpass Kuningan",
+            "Patra Kuningan"
+          ]
+        },
+        {
+          "name": "L13E",
+          "route": [
+            "Patra Kuningan",
+            "Simpang Kuningan",
+            "Tegal Parang",
+            "Tegal Mampang"
+          ]
+        },
+        {
+          "name": "6V",
+          "route": [
+            "Tegal Mampang",
+            "Mampang Prapatan"
+          ]
+        },
+        {
+          "name": "6B",
+          "route": [
+            "Mampang Prapatan",
+            "Duren Tiga",
+            "Warung Buncit"
+          ]
+        },
+        {
+          "name": "6A",
+          "route": [
+            "Warung Buncit",
+            "Duren Tiga",
+            "Mampang Prapatan",
+            "Underpass Kuningan",
+            "Patra Kuningan",
+            "Kuningan"
+          ]
+        },
+        {
+          "name": "4D",
+          "route": [
+            "Kuningan",
+            "Rasuna Said",
+            "Karet Kuningan",
+            "Kuningan Madya",
+            "Setiabudi",
+            "Flyover Kuningan",
+            "Pasar Rumput",
+            "Manggarai"
+          ]
+        }
+      ]
+    },
+    "bus-1": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "3F",
+          "route": [
+            "Tanjung Duren",
+            "Kota Bambu",
+            "Kemanggisan",
+            "Petamburan",
+            "Senayan",
+            "Gelora Bung Karno"
+          ]
+        },
+        {
+          "name": "1",
+          "route": [
+            "Gelora Bung Karno",
+            "Polda Metro Jaya",
+            "Karet",
+            "Dukuh Atas"
+          ]
+        },
+        {
+          "name": "6",
+          "route": [
+            "Galunggung",
+            "Setiabudi",
+            "Kuningan Madya",
+            "Karet Kuningan",
+            "Rasuna Said",
+            "Kuningan",
+            "Patra Kuningan",
+            "Underpass Kuningan",
+            "Mampang Prapatan",
+            "Duren Tiga",
+            "Warung Buncit",
+            "Warung Jati",
+            "Buncit Indah",
+            "Pejaten",
+            "Jati Padang",
+            "Jati Barat",
+            "Simpang Ragunan",
+            "Ragunan"
+          ]
+        }
+      ]
+    }
+  },
   "09-03-2024": {
     "bus-1": {
       "type": "bus",
