@@ -34,6 +34,28 @@
           "path": "/transit/transjakarta"
         }
       ]
+    },
+    {
+      "name": "Database",
+      "subroute": [
+        {
+          "name": "The Sims",
+          "subroute": [
+            {
+              "name": "Castaway Product",
+              "path": "/database/the-sims/castaway-product"
+            },
+            {
+              "name": "Bustin Out Jobs",
+              "path": "/database/the-sims/bustin-out-job"
+            },
+            {
+              "name": "Two Pets Products",
+              "path": "/database/the-sims/two-pets-product"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
