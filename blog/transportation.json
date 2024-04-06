@@ -1,4 +1,99 @@
 {
+  "30-03-2024": {
+    "bus-4": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "2",
+          "route": [
+            "Pulo Gadung",
+            "Bermis",
+            "Pulo Mas",
+            "Perintis Kemerdekaan",
+            "Pedongkelan",
+            "Cempaka Mas",
+            "Sumur Batu",
+            "Cempaka Baru",
+            "Pasar Cempaka Putih",
+            "Rawa Selatan",
+            "Galur",
+            "Pasar Senen",
+            "Senen Raya"
+          ]
+        },
+        {
+          "name": "8",
+          "route": [
+            "Tanjung Duren",
+            "Jelambar"
+          ]
+        }
+      ]
+    },
+    "bus-3": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "2B",
+          "route": [
+            "Lapangan Terbang Transera",
+            "Pulogadung"
+          ]
+        }
+      ]
+    },
+    "bus-2": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "2B",
+          "route": [
+            "Pulogadung",
+            "Pasar Modern Harapan Indah"
+          ]
+        }
+      ]
+    },
+    "bus-1": {
+      "type": "bus",
+      "price": 3500,
+      "routes": [
+        {
+          "name": "2A",
+          "route": [
+            "Jelambar",
+            "Grogol",
+            "Roxy",
+            "Petojo",
+            "Balai Kota",
+            "Kwitang",
+            "Pasar Senen",
+            "Galur",
+            "Rawa Selatan",
+            "Pasar Cempaka Putih",
+            "Cempaka Baru",
+            "Sumur Batu",
+            "Cempaka Mas",
+            "Pedongkelan",
+            "Perintis Kemerdekaan",
+            "Pulo Mas",
+            "Bermis",
+            "Pulo Gadung"
+          ]
+        },
+        {
+          "name": "8",
+          "route": [
+            "Tanjung Duren",
+            "Jelambar"
+          ]
+        }
+      ]
+    }
+  },
   "23-03-2024": {
     "bus-3": {
       "type": "bus",

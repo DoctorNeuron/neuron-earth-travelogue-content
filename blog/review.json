@@ -1,4 +1,19 @@
 {
+  "30-03-2024": {
+    "ag_smokehouse": {
+      "name": "AG Smokehouse Harapan Indah",
+      "hygiene": 7,
+      "service": 7,
+      "orders": [
+        {
+          "name": "Beef Garasi B",
+          "price": 64000,
+          "worthiness": 6,
+          "taste": 6
+        }
+      ]
+    }
+  },
   "27-03-2024": {
     "aeon": {
       "name": "AEON Mall Tanjung Barat",
