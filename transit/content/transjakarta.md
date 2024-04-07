@@ -86,6 +86,14 @@ As someone who routinely rides this great bus, here are some tips for you to get
 4. If you are a woman, please occupy the woman-only space. Not only to guarantee your safety from assault, but you can also give more space to men/boys.
 5. Check their maps [here](https://transjakarta.co.id/peta-rute/). If you still need guidance, ask the officers there.
 
+## Is this the perfect transportation for me
+
+Definitely. It is well-integrated with every corner of the well-known area. You can take a ride to Monas, Blok M, Grand Indonesia Mall, and others for a single flat fare.
+
+However, you need a bit of knowledge of which bus stop will be your next or final stop. Sure, the official map helps, yet you still need to get very used to their integration system. Just take your time.
+
+One more thing, always keep updated with their [Twitter](https://twitter.com/PT_Transjakarta) or [Instagram](https://www.instagram.com/infotije/) (actually, [there are two](https://www.instagram.com/pt_transjakarta/) of them). There will be a frequent update about temporary route changes, closure of a stop, and others.
+
 ## Get off your seat and walk
 
 I ask you to get out of your private vehicle. I admit it is so fun because I do not need to find another parking lot. Plus I can walk around as far as I please without worrying about my vehicle getting stolen in the park or whatever.

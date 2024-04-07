@@ -11,6 +11,10 @@
           "name": "2024",
           "subroute": [
             {
+              "name": "30 March",
+              "path": "/blog/2024/30-03"
+            },
+            {
               "name": "23 March",
               "path": "/blog/2024/23-03"
             },
@@ -34,30 +38,12 @@
       "name": "Transit Enthusiast",
       "subroute": [
         {
+          "name": "LRT Jakarta",
+          "path": "/transit/lrt-jakarta"
+        },
+        {
           "name": "Transjakarta",
           "path": "/transit/transjakarta"
-        }
-      ]
-    },
-    {
-      "name": "Database",
-      "subroute": [
-        {
-          "name": "The Sims",
-          "subroute": [
-            {
-              "name": "Castaway Product",
-              "path": "/database/the-sims/castaway-product"
-            },
-            {
-              "name": "Bustin Out Jobs",
-              "path": "/database/the-sims/bustin-out-job"
-            },
-            {
-              "name": "Two Pets Products",
-              "path": "/database/the-sims/two-pets-product"
-            }
-          ]
         }
       ]
     }
