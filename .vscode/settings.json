@@ -12,5 +12,6 @@
       "fileMatch": ["**/*/review.json"],
       "url": "./meta/food-review-schema.json"
     }
-  ]
+  ],
+  "grammarly.files.include": ["**/*.md"]
 }
