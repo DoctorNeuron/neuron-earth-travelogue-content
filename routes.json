@@ -11,6 +11,10 @@
           "name": "2024",
           "subroute": [
             {
+              "name": "9 April",
+              "path": "/blog/2024/09-04"
+            },
+            {
               "name": "30 March",
               "path": "/blog/2024/30-03"
             },

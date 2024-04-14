@@ -1,8 +1,71 @@
 {
+  "11-04-2024": {
+
+  },
+  "10-04-2024": {
+
+  },
+  "09-04-2024": {
+    "hsr-1": {
+      "type": "hsr",
+      "price": 300000,
+      "company": "Whoosh / Kereta Cepat Jakarta Bandung",
+      "routes": [
+        {
+          "name": "Halim - Tegalluar",
+          "route": [
+            "Halim",
+            "Padalarang"
+          ]
+        }
+      ]
+    },
+    "lrt-1": {
+      "type": "lrt",
+      "price": 5800,
+      "company": "LRT Jakarta",
+      "routes": [
+        {
+          "name": "Lin Bekasi",
+          "route": [
+            "Cikoko",
+            "Ciliwung",
+            "Cawang",
+            "Halim"
+          ]
+        }
+      ]
+    },
+    "bus-1": {
+      "type": "bus",
+      "price": 2000,
+      "company": "Transjakarta",
+      "routes": [
+        {
+          "name": "9",
+          "route": [
+            "Tanjung Duren",
+            "Kota Bambu",
+            "Kemanggisan",
+            "Petamburan",
+            "Senayan",
+            "Widya Chandra",
+            "Simpang Kuningan",
+            "Tegal Parang",
+            "Pancoran",
+            "Pancoran Tugu",
+            "Tebet Eco Park",
+            "Cikoko"
+          ]
+        }
+      ]
+    }
+  },
   "30-03-2024": {
     "bus-4": {
       "type": "bus",
       "price": 3500,
+      "company": "Transjakarta",
       "routes": [
         {
           "name": "2",
@@ -34,6 +97,7 @@
     "bus-3": {
       "type": "bus",
       "price": 3500,
+      "company": "Transjakarta",
       "routes": [
         {
           "name": "2B",
@@ -47,6 +111,7 @@
     "bus-2": {
       "type": "bus",
       "price": 3500,
+      "company": "Transjakarta",
       "routes": [
         {
           "name": "2B",
@@ -60,6 +125,7 @@
     "bus-1": {
       "type": "bus",
       "price": 3500,
+      "company": "Transjakarta",
       "routes": [
         {
           "name": "2A",
@@ -98,6 +164,7 @@
     "bus-3": {
       "type": "bus",
       "price": 3500,
+      "company": "Transjakarta",
       "routes": [
         {
           "name": "8",
@@ -115,6 +182,7 @@
     "train-2": {
       "type": "train-commuter",
       "price": 3000,
+      "company": "KRL Commuter",
       "routes": [
         {
           "name": "Commuter Line Bogor",
@@ -136,6 +204,7 @@
     "train-1": {
       "type": "train-commuter",
       "price": 3000,
+      "company": "KRL Commuter",
       "routes": [
         {
           "name": "Commuter Line Bogor",
@@ -154,6 +223,7 @@
     "bus-2": {
       "type": "bus",
       "price": 3500,
+      "company": "Transjakarta",
       "routes": [
         {
           "name": "6A",
@@ -225,6 +295,7 @@
     "bus-1": {
       "type": "bus",
       "price": 3500,
+      "company": "Transjakarta",
       "routes": [
         {
           "name": "3F",
@@ -276,6 +347,7 @@
     "bus-1": {
       "type": "bus",
       "price": 3500,
+      "company": "Transjakarta",
       "routes": [
         {
           "name": "8",
@@ -306,6 +378,7 @@
     "bus-2": {
       "type": "bus",
       "price": 3500,
+      "company": "Transjakarta",
       "routes": [
         {
           "name": "5C",
@@ -337,6 +410,7 @@
     "bus-3": {
       "type": "bus",
       "price": 3500,
+      "company": "Transjakarta",
       "routes": [
         {
           "name": "9A",
@@ -365,6 +439,7 @@
   "27-01-2024": {
     "bus-1": {
       "type": "bus",
+      "company": "Transjakarta",
       "price": 3500,
       "routes": [
         {
@@ -388,6 +463,7 @@
     },
     "bus-2": {
       "type": "bus",
+      "company": "Transjakarta",
       "price": 3500,
       "routes": [
         {
@@ -414,6 +490,7 @@
     },
     "mrt-1": {
       "type": "mrt",
+      "company": "MRT Jakarta",
       "price": 8000,
       "routes": [
         {
@@ -432,6 +509,7 @@
     "mrt-2": {
       "type": "mrt",
       "price": 14000,
+      "company": "MRT Jakarta",
       "routes": [
         {
           "name": "MRT Jakarta",
@@ -456,6 +534,7 @@
     "bus-3": {
       "type": "bus",
       "price": 3500,
+      "company": "Transjakarta",
       "routes": [
         {
           "name": "1",
@@ -470,6 +549,7 @@
     },
     "bus-4": {
       "type": "bus",
+      "company": "Transjakarta",
       "price": 3500,
       "routes": [
         {

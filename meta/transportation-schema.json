@@ -7,13 +7,17 @@
       "type": "object",
       "additionalProperties": false,
       "patternProperties": {
-        "^(bus|mrt|train)-[0-9]+$": {
+        "^(bus|mrt|train|lrt|hsr)-[0-9]+$": {
           "type": "object",
           "properties": {
             "type": {
               "type": "string",
-              "enum": ["bus", "mrt", "train-commuter", "train"],
+              "enum": ["bus", "mrt", "train-commuter", "train", "lrt", "hsr"],
               "description": "Mode of Transportation"
+            },
+            "company": {
+              "type": "string",
+              "description": "Nama company yang menjalankan, misal Transjakarta"
             },
             "price": {
               "type": "integer",
@@ -46,7 +50,8 @@
           "required": [
             "type",
             "price",
-            "routes"
+            "routes",
+            "company"
           ]
         }
       }
