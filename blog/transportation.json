@@ -6,6 +6,20 @@
 
   },
   "09-04-2024": {
+    "bus-2": {
+      "type": "bus",
+      "company": "Trans Metro Pasundan",
+      "price": 4900,
+      "routes": [
+        {
+          "name": "2D",
+          "route": [
+            "RS Kebonjati",
+            "Alun-alun Bandung"
+          ]
+        }
+      ]
+    },
     "hsr-1": {
       "type": "hsr",
       "price": 300000,

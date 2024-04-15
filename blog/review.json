@@ -1,4 +1,103 @@
 {
+  "09-04-2024": {
+    "mie": {
+      "name": "Mie Kocok Foodcourt Alun-Alun Bandung",
+      "hygiene": 6,
+      "service": 7,
+      "orders": [
+        {
+          "name": "Mie Kocok Bakso",
+          "price": 22000,
+          "taste": 4,
+          "worthiness": 4,
+          "notes": "Bakso but with no round bakso present :("
+        }
+      ]
+    },
+    "tiramisusu": {
+      "name": "Tiramisusu Braga",
+      "hygiene": 9,
+      "service": 9,
+      "orders": [
+        {
+          "name": "Tiramisusu Snow Mountain",
+          "price": 48000,
+          "taste": 9,
+          "worthiness": 6,
+          "notes": "Mocha Ice Cream. No substitute"
+        }
+      ]
+    },
+    "djahe": {
+      "name": "Waroeng Djahe",
+      "hygiene": 8,
+      "service": 8,
+      "orders": [
+        {
+          "name": "Teh Tarik",
+          "worthiness": 5,
+          "taste": 7,
+          "price": 19000
+        },
+        {
+          "name": "Teh Jahe",
+          "worthiness": 6,
+          "taste": 8,
+          "price": 17000
+        }
+      ]
+    },
+    "bmbb": {
+      "name": "BBQ Mountain Boys Burger",
+      "hygiene": 10,
+      "service": 10,
+      "tax": 10,
+      "notes": "Queue might be a nightmare. Try to allocate lots of your time before trying to queue.",
+      "orders": [
+        {
+          "name": "Classic Double Burger extra Bacon",
+          "price": 78000,
+          "taste": 10,
+          "notes": "Extra Bacon costs 10K IDR",
+          "worthiness": 10
+        },
+        {
+          "name": "Garlic Parmesan Cheese Chicken Wings 6pcs",
+          "price": 56000,
+          "taste": 10,
+          "worthiness": 10,
+          "notes": "Includes 6 full wings"
+        }
+      ]
+    },
+    "kopi_kenangan": {
+      "name": "Kopi Kenangan Stasiun KCJB Halim",
+      "hygiene": 8,
+      "service": 8,
+      "orders": [
+        {
+          "name": "Vanilla Latte Regular",
+          "notes": "Less Sugar",
+          "price": 28000,
+          "taste": 8,
+          "worthiness": 6
+        }
+      ]
+    },
+    "auntie_anne": {
+      "name": "Auntie Anne Stasiun Halim",
+      "hygiene": 8,
+      "service": 8,
+      "orders": [
+        {
+          "name": "Almond Cheese Stix",
+          "price": 41000,
+          "taste": 8,
+          "worthiness": 6
+        }
+      ]
+    }
+  },
   "30-03-2024": {
     "ag_smokehouse": {
       "name": "AG Smokehouse Harapan Indah",
