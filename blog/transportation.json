@@ -3,7 +3,48 @@
 
   },
   "10-04-2024": {
-
+    "bus-3": {
+      "type": "microbus",
+      "company": "Angkutan Kota Bandung",
+      "price": 12000,
+      "routes": [
+        {
+          "name": "Ciroyom - Lembang",
+          "route": [
+            "Terminal Ledeng",
+            "Alun-alun Lembang"
+          ]
+        }
+      ]
+    },
+    "bus-2": {
+      "type": "microbus",
+      "company": "Angkutan Kota Bandung",
+      "price": 5000,
+      "routes": [
+        {
+          "name": "Kalapa - Ledeng",
+          "route": [
+            "Carla Boutique",
+            "Terminal Ledeng"
+          ]
+        }
+      ]
+    },
+    "bus-1": {
+      "type": "microbus",
+      "company": "Angkutan Kota Bandung",
+      "price": 7000,
+      "routes": [
+        {
+          "name": "Ciroyom - Sarijadi via Sukajadi",
+          "route": [
+            "Perempatan Pagarsih Astana Anyar",
+            "Carla Boutique"
+          ]
+        }
+      ]
+    }
   },
   "09-04-2024": {
     "bus-2": {

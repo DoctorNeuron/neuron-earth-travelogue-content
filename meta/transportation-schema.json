@@ -7,12 +7,12 @@
       "type": "object",
       "additionalProperties": false,
       "patternProperties": {
-        "^(bus|mrt|train|lrt|hsr)-[0-9]+$": {
+        "^(bus|mrt|train|lrt|hsr|microbus)-[0-9]+$": {
           "type": "object",
           "properties": {
             "type": {
               "type": "string",
-              "enum": ["bus", "mrt", "train-commuter", "train", "lrt", "hsr"],
+              "enum": ["bus", "microbus", "mrt", "train-commuter", "train", "lrt", "hsr"],
               "description": "Mode of Transportation"
             },
             "company": {

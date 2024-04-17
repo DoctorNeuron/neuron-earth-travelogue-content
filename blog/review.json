@@ -1,4 +1,58 @@
 {
+  "10-04-2024": {
+    "rumah_sosis": {
+      "name": "Rumah Sosis Lembang",
+      "hygiene": 8,
+      "service": 8,
+      "orders": [
+        {
+          "name": "Sosis Bakar Black Pepper",
+          "price": 18000,
+          "taste": 9,
+          "worthiness": 6
+        },
+        {
+          "name": "Sosis Bakar Keju",
+          "price": 18000,
+          "taste": 9,
+          "worthiness": 6
+        },
+        {
+          "name": "Sosis Bakar Original",
+          "price": 18000,
+          "taste": 9,
+          "worthiness": 6
+        }
+      ]
+    },
+    "susu_lembang": {
+      "name": "Susu Lembang",
+      "hygiene": 8,
+      "service": 8,
+      "orders": [
+        {
+          "name": "Susu Original",
+          "price": 10000,
+          "taste": 9,
+          "worthiness": 9
+        }
+      ]
+    },
+    "ketan_bakar": {
+      "name": "Ketan Bakar",
+      "hygiene": 9,
+      "service": 9,
+      "notes": "I cannot really remember the place. It should be around 'Restoran Lembang' sign",
+      "orders": [
+        {
+          "name": "Ketan Bakar",
+          "price": 10000,
+          "taste": 9,
+          "worthiness": 10
+        }
+      ]
+    }
+  },
   "09-04-2024": {
     "mie": {
       "name": "Mie Kocok Foodcourt Alun-Alun Bandung",
