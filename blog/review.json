@@ -1,5 +1,73 @@
 {
+  "11-04-2024": {
+    "dimsum_9_naga": {
+      "name": "Dimsum 9 Naga, Paskal",
+      "notes": "Be ready to reserve an hour or two for lining",
+      "hygiene": 8,
+      "service": 7,
+      "tax": 10,
+      "orders": [
+        {
+          "name": "Siomay Ikan",
+          "price": 25000,
+          "taste": 8,
+          "worthiness": 6
+        },
+        {
+          "name": "Bakpau Telur Asin",
+          "price": 21000,
+          "taste": 10,
+          "worthiness": 9
+        },
+        {
+          "name": "Bakmie Ayam Talas Goreng",
+          "price": 35000,
+          "taste": 9,
+          "worthiness": 8
+        },
+        {
+          "name": "Roti Selai Butter Kaya",
+          "price": 20000,
+          "taste": 8,
+          "worthiness": 6
+        }
+      ]
+    }
+  },
   "10-04-2024": {
+    "solaria": {
+      "name": "Solaria Kings Mall",
+      "hygiene": 8,
+      "service": 8,
+      "tax": 10,
+      "orders": [
+        {
+          "name": "Chicken Cordon Bleu",
+          "price": 48182,
+          "taste": 9,
+          "worthiness": 8
+        },
+        {
+          "name": "Nasi Goreng Sapi Cabe Ijo",
+          "price": 41819,
+          "taste": 9,
+          "worthiness": 7
+        }
+      ]
+    },
+    "kari": {
+      "name": "Nasi Kare Melayu, Kings Mall",
+      "hygiene": 6,
+      "service": 7,
+      "orders": [
+        {
+          "name": "Paket 4",
+          "price": 50000,
+          "taste": 7,
+          "worthiness": 5
+        }
+      ]
+    },
     "rumah_sosis": {
       "name": "Rumah Sosis Lembang",
       "hygiene": 8,

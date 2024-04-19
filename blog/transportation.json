@@ -1,8 +1,132 @@
 {
   "11-04-2024": {
-
+    "bus-2": {
+      "type": "bus",
+      "price": 3500,
+      "company": "Transjakarta",
+      "routes": [
+        {
+          "name": "9",
+          "route": [
+            "Cikoko",
+            "Tebet Eco Park",
+            "Pancoran Tugu",
+            "Pancoran",
+            "Tegal Parang",
+            "Simpang Kuningan",
+            "Widya Chandra",
+            "Senayan",
+            "Petamburan",
+            "Kemanggisan",
+            "Kota Bambu",
+            "Tanjung Duren"
+          ]
+        }
+      ]
+    },
+    "lrt-1": {
+      "type": "lrt",
+      "price": 5800,
+      "company": "LRT Jakarta",
+      "routes": [
+        {
+          "name": "Lin Bekasi",
+          "route": [
+            "Halim",
+            "Cawang",
+            "Ciliwung",
+            "Cikoko"
+          ]
+        }
+      ]
+    },
+    "hsr-1": {
+      "type": "hsr",
+      "price": 300000,
+      "company": "Whoosh / Kereta Cepat Jakarta Bandung",
+      "routes": [
+        {
+          "name": "Halim - Tegalluar",
+          "route": [
+            "Padalarang",
+            "Halim"
+          ]
+        }
+      ]
+    },
+    "train-1": {
+      "type": "train",
+      "price": 0,
+      "company": "Feeder Kereta Api Cepat Padalarang - Bandung",
+      "routes": [
+        {
+          "name": "KC Padalarang - Bandung",
+          "route": [
+            "Bandung",
+            "Cimahi",
+            "Padalarang"
+          ]
+        }
+      ]
+    },
+    "bus-1": {
+      "type": "microbus",
+      "company": "Angkutan Kota Bandung",
+      "price": 5000,
+      "routes": [
+        {
+          "name": "Ciroyom - Sarijadi via Sukajadi",
+          "route": [
+            "Perempatan Pagarsih Astana Anyar",
+            "Paskal Hyper Square"
+          ]
+        }
+      ]
+    }
   },
   "10-04-2024": {
+    "bus-6": {
+      "type": "microbus",
+      "company": "Angkutan Kota Bandung",
+      "price": 5000,
+      "routes": [
+        {
+          "name": "Kalapa - Cicaheum via Aceh",
+          "route": [
+            "Taman Pramuka",
+            "HSBC"
+          ]
+        }
+      ]
+    },
+    "bus-5": {
+      "type": "microbus",
+      "company": "Angkutan Kota Bandung",
+      "price": 12000,
+      "routes": [
+        {
+          "name": "Cicaheum - Ciroyom",
+          "route": [
+            "Terminal Ledeng",
+            "Gedung Sate"
+          ]
+        }
+      ]
+    },
+    "bus-4": {
+      "type": "microbus",
+      "company": "Angkutan Kota Bandung",
+      "price": 12000,
+      "routes": [
+        {
+          "name": "Ciroyom - Lembang",
+          "route": [
+            "Floating Market Lembang",
+            "Terminal Ledeng"
+          ]
+        }
+      ]
+    },
     "bus-3": {
       "type": "microbus",
       "company": "Angkutan Kota Bandung",
@@ -57,6 +181,21 @@
           "route": [
             "RS Kebonjati",
             "Alun-alun Bandung"
+          ]
+        }
+      ]
+    },
+    "train-1": {
+      "type": "train",
+      "price": 0,
+      "company": "Feeder Kereta Api Cepat Padalarang - Bandung",
+      "routes": [
+        {
+          "name": "KC Padalarang - Bandung",
+          "route": [
+            "Padalarang",
+            "Cimahi",
+            "Bandung"
           ]
         }
       ]

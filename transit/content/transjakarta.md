@@ -38,7 +38,7 @@ In terms of tiers, there are several tiers that I did not care about due to how 
 - Microbus (Mikrotrans) = Free-to-ride microbuses that ride into the inner part of the city. I will make a separate page about this one.
   ![Microbus](<https://images.bisnis.com/posts/2023/07/26/1678487/jaklingko_mikrotrans_(1).jpg>)
 
-## Ok enough for the essay. Price, please :)
+## Ok, enough for the essay. Price, please :)
 
 Here's why I like commuting or traveling using Transjakarta.
 
@@ -55,9 +55,9 @@ You can **ride the bus for free** if you belong in these [categories](https://tr
 
 Otherwise, here is the pricelist
 
-- Regular (BRT/Non-BRT) = 3500K IDR
+- Regular (BRT/Non-BRT) = 3500 IDR (2000 IDR for 05:00 AM till 07:00 AM on tap-in)
 - Royal = 20000K IDR
-- Sightseeing = 0K IDR. Yups, it is f-in free
+- Sightseeing = 0K IDR. Yup, it is f-in free
 - Microbus = 0K IDR.
 
 You can use this cheap facility by using **prepaid cards** (Flazz, E-Money, and others) or buying a one-way ticket using their **app**.

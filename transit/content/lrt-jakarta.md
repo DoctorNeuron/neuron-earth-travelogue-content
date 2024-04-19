@@ -58,7 +58,7 @@ Rather than using words, I will let these images explain this to you
 
 ## Stops
 
-Ok, so where can I ride this train?
+OK, so where can I ride this train?
 
 As of now, there are a total of 6 operational stops and more are still in construction. Details of each stop are as follows:
 * Pegangsaan DuaBoulevard Utara is Directly connected to Mall Kelapa Gading. Must go when in Jakarta. 
