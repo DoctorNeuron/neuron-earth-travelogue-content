@@ -1,4 +1,74 @@
 {
+  "27-04-2024": {
+    "dimsum": {
+      "name": "Dimsum Come-Xia Alam Sutera",
+      "hygiene": 10,
+      "tax": 15,
+      "service": 8,
+      "orders": [
+        {
+          "name": "AYCE Dim Sum",
+          "notes": "This rating is the overall of my order. I will list the scores for each of my order",
+          "price": 198000,
+          "taste": 7,
+          "worthiness": 7
+        },
+        {
+          "name": "Iced Ocha",
+          "notes": "This drink is NOT INCLUDED in the AYCE package. Refillable",
+          "price": 28000,
+          "taste": 6,
+          "worthiness": 4
+        },
+        {
+          "name": "Salted egg Bao",
+          "notes": "Since this is some kind of carb, I suggest to not eat it much",
+          "price": 0,
+          "taste": 9,
+          "worthiness": 6
+        },
+        {
+          "name": "Chicken Xiao Long Bao",
+          "price": 0,
+          "taste": 9,
+          "worthiness": 8
+        },
+        {
+          "name": "Chicken Curry Bao",
+          "price": 0,
+          "taste": 6,
+          "worthiness": 5
+        },
+        {
+          "name": "Guotie",
+          "price": 0,
+          "taste": 7,
+          "worthiness": 8
+        }
+      ]
+    },
+    "sushi": {
+      "name": "Sushi GO! Living World Alam Sutera",
+      "hygiene": 8,
+      "service": 8,
+      "tax": 17,
+      "orders": [
+        {
+          "name": "5 Plates of Sushi",
+          "notes": "Overall rating. Each plate costs 15K IDR each",
+          "price": 75000,
+          "taste": 7,
+          "worthiness": 6
+        },
+        {
+          "name": "Cold Ocha",
+          "price": 12000,
+          "taste": 5,
+          "worthiness": 6
+        }
+      ]
+    }
+  },
   "11-04-2024": {
     "dimsum_9_naga": {
       "name": "Dimsum 9 Naga, Paskal",
@@ -503,5 +573,4 @@
       ]
     }
   }
-
 }
